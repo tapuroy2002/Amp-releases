@@ -4,7 +4,7 @@ A music and video player for Windows 10 and 11 (64-bit).
 
 ## Download
 
-**[Download the latest version](https://github.com/tapuroy2002/Amp-releases/releases/latest)**
+**[Download the latest version](https://github.com/tapuroy2002/Amp-releases/releases/latest)** · or visit **[tapuroy2002.github.io/getamp](https://tapuroy2002.github.io/getamp/)**
 
 On the release page, under **Assets**:
 
