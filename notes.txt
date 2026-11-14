@@ -1,0 +1,1 @@
+- Windows: uninstalling Amp now also closes and removes the desktop widget
